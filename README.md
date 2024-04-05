@@ -7,7 +7,7 @@ This project demonstrates how to use Streamlit to create a web application for f
 1. Clone the repository:
 
     ```bash
-    https://github.com/glider024/Forecasting-demands.git
+    (https://github.com/paviakki2001/Energy-Demand)
     ```
 
 2. Install the required Python packages:
